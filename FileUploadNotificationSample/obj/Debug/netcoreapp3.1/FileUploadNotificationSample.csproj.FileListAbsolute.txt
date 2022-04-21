@@ -1,0 +1,46 @@
+C:/tech/AZ220Course/IoT Hub/FileUploadNotificationSample/bin/Debug/netcoreapp3.1/FileUploadNotificationSample.exe
+C:/tech/AZ220Course/IoT Hub/FileUploadNotificationSample/bin/Debug/netcoreapp3.1/FileUploadNotificationSample.deps.json
+C:/tech/AZ220Course/IoT Hub/FileUploadNotificationSample/bin/Debug/netcoreapp3.1/FileUploadNotificationSample.runtimeconfig.json
+C:/tech/AZ220Course/IoT Hub/FileUploadNotificationSample/bin/Debug/netcoreapp3.1/FileUploadNotificationSample.runtimeconfig.dev.json
+C:/tech/AZ220Course/IoT Hub/FileUploadNotificationSample/bin/Debug/netcoreapp3.1/FileUploadNotificationSample.dll
+C:/tech/AZ220Course/IoT Hub/FileUploadNotificationSample/bin/Debug/netcoreapp3.1/FileUploadNotificationSample.pdb
+C:/tech/AZ220Course/IoT Hub/FileUploadNotificationSample/bin/Debug/netcoreapp3.1/Azure.Core.dll
+C:/tech/AZ220Course/IoT Hub/FileUploadNotificationSample/bin/Debug/netcoreapp3.1/Microsoft.Azure.Amqp.dll
+C:/tech/AZ220Course/IoT Hub/FileUploadNotificationSample/bin/Debug/netcoreapp3.1/Microsoft.Azure.Devices.dll
+C:/tech/AZ220Course/IoT Hub/FileUploadNotificationSample/bin/Debug/netcoreapp3.1/Microsoft.Azure.Devices.Shared.dll
+C:/tech/AZ220Course/IoT Hub/FileUploadNotificationSample/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+C:/tech/AZ220Course/IoT Hub/FileUploadNotificationSample/bin/Debug/netcoreapp3.1/Microsoft.Rest.ClientRuntime.dll
+C:/tech/AZ220Course/IoT Hub/FileUploadNotificationSample/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/tech/AZ220Course/IoT Hub/FileUploadNotificationSample/bin/Debug/netcoreapp3.1/System.Memory.Data.dll
+C:/tech/AZ220Course/IoT Hub/FileUploadNotificationSample/obj/Debug/netcoreapp3.1/FileUploadNotificationSample.csproj.AssemblyReference.cache
+C:/tech/AZ220Course/IoT Hub/FileUploadNotificationSample/obj/Debug/netcoreapp3.1/FileUploadNotificationSample.GeneratedMSBuildEditorConfig.editorconfig
+C:/tech/AZ220Course/IoT Hub/FileUploadNotificationSample/obj/Debug/netcoreapp3.1/FileUploadNotificationSample.AssemblyInfoInputs.cache
+C:/tech/AZ220Course/IoT Hub/FileUploadNotificationSample/obj/Debug/netcoreapp3.1/FileUploadNotificationSample.AssemblyInfo.cs
+C:/tech/AZ220Course/IoT Hub/FileUploadNotificationSample/obj/Debug/netcoreapp3.1/FileUploadNotificationSample.csproj.CoreCompileInputs.cache
+C:/tech/AZ220Course/IoT Hub/FileUploadNotificationSample/obj/Debug/netcoreapp3.1/FileUploadNotificationSample.csproj.CopyComplete
+C:/tech/AZ220Course/IoT Hub/FileUploadNotificationSample/obj/Debug/netcoreapp3.1/FileUploadNotificationSample.dll
+C:/tech/AZ220Course/IoT Hub/FileUploadNotificationSample/obj/Debug/netcoreapp3.1/FileUploadNotificationSample.pdb
+C:/tech/AZ220Course/IoT Hub/FileUploadNotificationSample/obj/Debug/netcoreapp3.1/FileUploadNotificationSample.genruntimeconfig.cache
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadNotificationSample/bin/Debug/netcoreapp3.1/FileUploadNotificationSample
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadNotificationSample/bin/Debug/netcoreapp3.1/FileUploadNotificationSample.deps.json
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadNotificationSample/bin/Debug/netcoreapp3.1/FileUploadNotificationSample.runtimeconfig.json
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadNotificationSample/bin/Debug/netcoreapp3.1/FileUploadNotificationSample.runtimeconfig.dev.json
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadNotificationSample/bin/Debug/netcoreapp3.1/FileUploadNotificationSample.dll
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadNotificationSample/bin/Debug/netcoreapp3.1/FileUploadNotificationSample.pdb
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadNotificationSample/bin/Debug/netcoreapp3.1/Azure.Core.dll
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadNotificationSample/bin/Debug/netcoreapp3.1/Microsoft.Azure.Amqp.dll
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadNotificationSample/bin/Debug/netcoreapp3.1/Microsoft.Azure.Devices.dll
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadNotificationSample/bin/Debug/netcoreapp3.1/Microsoft.Azure.Devices.Shared.dll
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadNotificationSample/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadNotificationSample/bin/Debug/netcoreapp3.1/Microsoft.Rest.ClientRuntime.dll
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadNotificationSample/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadNotificationSample/bin/Debug/netcoreapp3.1/System.Memory.Data.dll
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadNotificationSample/obj/Debug/netcoreapp3.1/FileUploadNotificationSample.csproj.AssemblyReference.cache
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadNotificationSample/obj/Debug/netcoreapp3.1/FileUploadNotificationSample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadNotificationSample/obj/Debug/netcoreapp3.1/FileUploadNotificationSample.AssemblyInfoInputs.cache
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadNotificationSample/obj/Debug/netcoreapp3.1/FileUploadNotificationSample.AssemblyInfo.cs
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadNotificationSample/obj/Debug/netcoreapp3.1/FileUploadNotificationSample.csproj.CoreCompileInputs.cache
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadNotificationSample/obj/Debug/netcoreapp3.1/FileUploadNotificationSample.csproj.CopyComplete
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadNotificationSample/obj/Debug/netcoreapp3.1/FileUploadNotificationSample.dll
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadNotificationSample/obj/Debug/netcoreapp3.1/FileUploadNotificationSample.pdb
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadNotificationSample/obj/Debug/netcoreapp3.1/FileUploadNotificationSample.genruntimeconfig.cache

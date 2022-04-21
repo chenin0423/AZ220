@@ -1,0 +1,74 @@
+C:/tech/AZ220Course/IoT Hub/FileUploadSample/bin/Debug/netcoreapp3.1/FileUploadSample.exe
+C:/tech/AZ220Course/IoT Hub/FileUploadSample/bin/Debug/netcoreapp3.1/FileUploadSample.deps.json
+C:/tech/AZ220Course/IoT Hub/FileUploadSample/bin/Debug/netcoreapp3.1/FileUploadSample.runtimeconfig.json
+C:/tech/AZ220Course/IoT Hub/FileUploadSample/bin/Debug/netcoreapp3.1/FileUploadSample.runtimeconfig.dev.json
+C:/tech/AZ220Course/IoT Hub/FileUploadSample/bin/Debug/netcoreapp3.1/FileUploadSample.dll
+C:/tech/AZ220Course/IoT Hub/FileUploadSample/bin/Debug/netcoreapp3.1/FileUploadSample.pdb
+C:/tech/AZ220Course/IoT Hub/FileUploadSample/bin/Debug/netcoreapp3.1/Azure.Core.dll
+C:/tech/AZ220Course/IoT Hub/FileUploadSample/bin/Debug/netcoreapp3.1/Azure.Storage.Blobs.dll
+C:/tech/AZ220Course/IoT Hub/FileUploadSample/bin/Debug/netcoreapp3.1/Azure.Storage.Common.dll
+C:/tech/AZ220Course/IoT Hub/FileUploadSample/bin/Debug/netcoreapp3.1/CommandLine.dll
+C:/tech/AZ220Course/IoT Hub/FileUploadSample/bin/Debug/netcoreapp3.1/DotNetty.Buffers.dll
+C:/tech/AZ220Course/IoT Hub/FileUploadSample/bin/Debug/netcoreapp3.1/DotNetty.Codecs.dll
+C:/tech/AZ220Course/IoT Hub/FileUploadSample/bin/Debug/netcoreapp3.1/DotNetty.Codecs.Mqtt.dll
+C:/tech/AZ220Course/IoT Hub/FileUploadSample/bin/Debug/netcoreapp3.1/DotNetty.Common.dll
+C:/tech/AZ220Course/IoT Hub/FileUploadSample/bin/Debug/netcoreapp3.1/DotNetty.Handlers.dll
+C:/tech/AZ220Course/IoT Hub/FileUploadSample/bin/Debug/netcoreapp3.1/DotNetty.Transport.dll
+C:/tech/AZ220Course/IoT Hub/FileUploadSample/bin/Debug/netcoreapp3.1/Microsoft.Azure.Amqp.dll
+C:/tech/AZ220Course/IoT Hub/FileUploadSample/bin/Debug/netcoreapp3.1/Microsoft.Azure.Devices.Client.dll
+C:/tech/AZ220Course/IoT Hub/FileUploadSample/bin/Debug/netcoreapp3.1/Microsoft.Azure.Devices.Shared.dll
+C:/tech/AZ220Course/IoT Hub/FileUploadSample/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+C:/tech/AZ220Course/IoT Hub/FileUploadSample/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/tech/AZ220Course/IoT Hub/FileUploadSample/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+C:/tech/AZ220Course/IoT Hub/FileUploadSample/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+C:/tech/AZ220Course/IoT Hub/FileUploadSample/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/tech/AZ220Course/IoT Hub/FileUploadSample/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+C:/tech/AZ220Course/IoT Hub/FileUploadSample/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+C:/tech/AZ220Course/IoT Hub/FileUploadSample/bin/Debug/netcoreapp3.1/Microsoft.WindowsAzure.Storage.dll
+C:/tech/AZ220Course/IoT Hub/FileUploadSample/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/tech/AZ220Course/IoT Hub/FileUploadSample/obj/Debug/netcoreapp3.1/FileUploadSample.csproj.AssemblyReference.cache
+C:/tech/AZ220Course/IoT Hub/FileUploadSample/obj/Debug/netcoreapp3.1/FileUploadSample.GeneratedMSBuildEditorConfig.editorconfig
+C:/tech/AZ220Course/IoT Hub/FileUploadSample/obj/Debug/netcoreapp3.1/FileUploadSample.AssemblyInfoInputs.cache
+C:/tech/AZ220Course/IoT Hub/FileUploadSample/obj/Debug/netcoreapp3.1/FileUploadSample.AssemblyInfo.cs
+C:/tech/AZ220Course/IoT Hub/FileUploadSample/obj/Debug/netcoreapp3.1/FileUploadSample.csproj.CoreCompileInputs.cache
+C:/tech/AZ220Course/IoT Hub/FileUploadSample/obj/Debug/netcoreapp3.1/FileUploadSample.csproj.CopyComplete
+C:/tech/AZ220Course/IoT Hub/FileUploadSample/obj/Debug/netcoreapp3.1/FileUploadSample.dll
+C:/tech/AZ220Course/IoT Hub/FileUploadSample/obj/Debug/netcoreapp3.1/FileUploadSample.pdb
+C:/tech/AZ220Course/IoT Hub/FileUploadSample/obj/Debug/netcoreapp3.1/FileUploadSample.genruntimeconfig.cache
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadSample/bin/Debug/netcoreapp3.1/FileUploadSample
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadSample/bin/Debug/netcoreapp3.1/FileUploadSample.deps.json
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadSample/bin/Debug/netcoreapp3.1/FileUploadSample.runtimeconfig.json
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadSample/bin/Debug/netcoreapp3.1/FileUploadSample.runtimeconfig.dev.json
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadSample/bin/Debug/netcoreapp3.1/FileUploadSample.dll
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadSample/bin/Debug/netcoreapp3.1/FileUploadSample.pdb
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadSample/bin/Debug/netcoreapp3.1/Azure.Core.dll
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadSample/bin/Debug/netcoreapp3.1/Azure.Storage.Blobs.dll
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadSample/bin/Debug/netcoreapp3.1/Azure.Storage.Common.dll
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadSample/bin/Debug/netcoreapp3.1/CommandLine.dll
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadSample/bin/Debug/netcoreapp3.1/DotNetty.Buffers.dll
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadSample/bin/Debug/netcoreapp3.1/DotNetty.Codecs.dll
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadSample/bin/Debug/netcoreapp3.1/DotNetty.Codecs.Mqtt.dll
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadSample/bin/Debug/netcoreapp3.1/DotNetty.Common.dll
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadSample/bin/Debug/netcoreapp3.1/DotNetty.Handlers.dll
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadSample/bin/Debug/netcoreapp3.1/DotNetty.Transport.dll
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadSample/bin/Debug/netcoreapp3.1/Microsoft.Azure.Amqp.dll
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadSample/bin/Debug/netcoreapp3.1/Microsoft.Azure.Devices.Client.dll
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadSample/bin/Debug/netcoreapp3.1/Microsoft.Azure.Devices.Shared.dll
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadSample/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadSample/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadSample/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadSample/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadSample/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadSample/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadSample/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadSample/bin/Debug/netcoreapp3.1/Microsoft.WindowsAzure.Storage.dll
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadSample/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadSample/obj/Debug/netcoreapp3.1/FileUploadSample.csproj.AssemblyReference.cache
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadSample/obj/Debug/netcoreapp3.1/FileUploadSample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadSample/obj/Debug/netcoreapp3.1/FileUploadSample.AssemblyInfoInputs.cache
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadSample/obj/Debug/netcoreapp3.1/FileUploadSample.AssemblyInfo.cs
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadSample/obj/Debug/netcoreapp3.1/FileUploadSample.csproj.CoreCompileInputs.cache
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadSample/obj/Debug/netcoreapp3.1/FileUploadSample.csproj.CopyComplete
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadSample/obj/Debug/netcoreapp3.1/FileUploadSample.dll
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadSample/obj/Debug/netcoreapp3.1/FileUploadSample.pdb
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/FileUploadSample/obj/Debug/netcoreapp3.1/FileUploadSample.genruntimeconfig.cache

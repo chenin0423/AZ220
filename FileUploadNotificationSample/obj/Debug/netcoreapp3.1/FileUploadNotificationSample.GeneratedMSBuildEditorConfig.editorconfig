@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = FileUploadNotificationSample
+build_property.ProjectDir = /Users/kkblue/Documents/GitHub/Azure/AZ220AAA/iothubcode/FileUploadNotificationSample/

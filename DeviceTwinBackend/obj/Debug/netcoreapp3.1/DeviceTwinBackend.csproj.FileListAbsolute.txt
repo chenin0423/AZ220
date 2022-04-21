@@ -1,0 +1,39 @@
+C:/Users/memil/OneDrive - Ivri/MemiWebSite/Courses/Advanced Azure Services/Resources/DemoApps/DeviceTwinBackend/bin/Debug/netcoreapp3.1/DeviceTwinBackend.exe
+C:/Users/memil/OneDrive - Ivri/MemiWebSite/Courses/Advanced Azure Services/Resources/DemoApps/DeviceTwinBackend/bin/Debug/netcoreapp3.1/DeviceTwinBackend.deps.json
+C:/Users/memil/OneDrive - Ivri/MemiWebSite/Courses/Advanced Azure Services/Resources/DemoApps/DeviceTwinBackend/bin/Debug/netcoreapp3.1/DeviceTwinBackend.runtimeconfig.json
+C:/Users/memil/OneDrive - Ivri/MemiWebSite/Courses/Advanced Azure Services/Resources/DemoApps/DeviceTwinBackend/bin/Debug/netcoreapp3.1/DeviceTwinBackend.runtimeconfig.dev.json
+C:/Users/memil/OneDrive - Ivri/MemiWebSite/Courses/Advanced Azure Services/Resources/DemoApps/DeviceTwinBackend/bin/Debug/netcoreapp3.1/DeviceTwinBackend.dll
+C:/Users/memil/OneDrive - Ivri/MemiWebSite/Courses/Advanced Azure Services/Resources/DemoApps/DeviceTwinBackend/bin/Debug/netcoreapp3.1/DeviceTwinBackend.pdb
+C:/Users/memil/OneDrive - Ivri/MemiWebSite/Courses/Advanced Azure Services/Resources/DemoApps/DeviceTwinBackend/bin/Debug/netcoreapp3.1/Microsoft.Azure.Amqp.dll
+C:/Users/memil/OneDrive - Ivri/MemiWebSite/Courses/Advanced Azure Services/Resources/DemoApps/DeviceTwinBackend/bin/Debug/netcoreapp3.1/Microsoft.Azure.Devices.dll
+C:/Users/memil/OneDrive - Ivri/MemiWebSite/Courses/Advanced Azure Services/Resources/DemoApps/DeviceTwinBackend/bin/Debug/netcoreapp3.1/Microsoft.Azure.Devices.Shared.dll
+C:/Users/memil/OneDrive - Ivri/MemiWebSite/Courses/Advanced Azure Services/Resources/DemoApps/DeviceTwinBackend/bin/Debug/netcoreapp3.1/Microsoft.Rest.ClientRuntime.dll
+C:/Users/memil/OneDrive - Ivri/MemiWebSite/Courses/Advanced Azure Services/Resources/DemoApps/DeviceTwinBackend/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/memil/OneDrive - Ivri/MemiWebSite/Courses/Advanced Azure Services/Resources/DemoApps/DeviceTwinBackend/obj/Debug/netcoreapp3.1/DeviceTwinBackend.csprojAssemblyReference.cache
+C:/Users/memil/OneDrive - Ivri/MemiWebSite/Courses/Advanced Azure Services/Resources/DemoApps/DeviceTwinBackend/obj/Debug/netcoreapp3.1/DeviceTwinBackend.AssemblyInfoInputs.cache
+C:/Users/memil/OneDrive - Ivri/MemiWebSite/Courses/Advanced Azure Services/Resources/DemoApps/DeviceTwinBackend/obj/Debug/netcoreapp3.1/DeviceTwinBackend.AssemblyInfo.cs
+C:/Users/memil/OneDrive - Ivri/MemiWebSite/Courses/Advanced Azure Services/Resources/DemoApps/DeviceTwinBackend/obj/Debug/netcoreapp3.1/DeviceTwinBackend.csproj.CoreCompileInputs.cache
+C:/Users/memil/OneDrive - Ivri/MemiWebSite/Courses/Advanced Azure Services/Resources/DemoApps/DeviceTwinBackend/obj/Debug/netcoreapp3.1/DeviceTwinBackend.csproj.CopyComplete
+C:/Users/memil/OneDrive - Ivri/MemiWebSite/Courses/Advanced Azure Services/Resources/DemoApps/DeviceTwinBackend/obj/Debug/netcoreapp3.1/DeviceTwinBackend.dll
+C:/Users/memil/OneDrive - Ivri/MemiWebSite/Courses/Advanced Azure Services/Resources/DemoApps/DeviceTwinBackend/obj/Debug/netcoreapp3.1/DeviceTwinBackend.pdb
+C:/Users/memil/OneDrive - Ivri/MemiWebSite/Courses/Advanced Azure Services/Resources/DemoApps/DeviceTwinBackend/obj/Debug/netcoreapp3.1/DeviceTwinBackend.genruntimeconfig.cache
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/DeviceTwinBackend/bin/Debug/netcoreapp3.1/DeviceTwinBackend
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/DeviceTwinBackend/bin/Debug/netcoreapp3.1/DeviceTwinBackend.deps.json
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/DeviceTwinBackend/bin/Debug/netcoreapp3.1/DeviceTwinBackend.runtimeconfig.json
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/DeviceTwinBackend/bin/Debug/netcoreapp3.1/DeviceTwinBackend.runtimeconfig.dev.json
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/DeviceTwinBackend/bin/Debug/netcoreapp3.1/DeviceTwinBackend.dll
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/DeviceTwinBackend/bin/Debug/netcoreapp3.1/DeviceTwinBackend.pdb
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/DeviceTwinBackend/bin/Debug/netcoreapp3.1/Microsoft.Azure.Amqp.dll
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/DeviceTwinBackend/bin/Debug/netcoreapp3.1/Microsoft.Azure.Devices.dll
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/DeviceTwinBackend/bin/Debug/netcoreapp3.1/Microsoft.Azure.Devices.Shared.dll
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/DeviceTwinBackend/bin/Debug/netcoreapp3.1/Microsoft.Rest.ClientRuntime.dll
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/DeviceTwinBackend/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/DeviceTwinBackend/obj/Debug/netcoreapp3.1/DeviceTwinBackend.csproj.AssemblyReference.cache
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/DeviceTwinBackend/obj/Debug/netcoreapp3.1/DeviceTwinBackend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/DeviceTwinBackend/obj/Debug/netcoreapp3.1/DeviceTwinBackend.AssemblyInfoInputs.cache
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/DeviceTwinBackend/obj/Debug/netcoreapp3.1/DeviceTwinBackend.AssemblyInfo.cs
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/DeviceTwinBackend/obj/Debug/netcoreapp3.1/DeviceTwinBackend.csproj.CoreCompileInputs.cache
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/DeviceTwinBackend/obj/Debug/netcoreapp3.1/DeviceTwinBackend.csproj.CopyComplete
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/DeviceTwinBackend/obj/Debug/netcoreapp3.1/DeviceTwinBackend.dll
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/DeviceTwinBackend/obj/Debug/netcoreapp3.1/DeviceTwinBackend.pdb
+/Users/kkblue/Documents/GitHub/Azure/Eflow/iothubcode/DeviceTwinBackend/obj/Debug/netcoreapp3.1/DeviceTwinBackend.genruntimeconfig.cache
